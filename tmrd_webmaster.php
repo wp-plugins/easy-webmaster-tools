@@ -1,7 +1,7 @@
 <?php 
 
 /**
- * Plugin Name: Easy Webmaster Tools
+ * Plugin Name: Easy Google Webmaster Tools
  * Plugin URI: http://nakshighor.com/plugins/
  * Description: Easy Google Webmaster tools is one of the best simple plugin to add or connect your websites with Google Webmaster tools.Its really easy for use everyone.Just install the plugin as like other wordpress plugin.And then you will see the analytics options in your dashboard.Then click Webmaster tools options and then you see a textarea.You will just copy the Google Webmaster alternatibe html meta tag  code and paste here. That's it and you will enjoy now. And Then you will get all kind of sites error and other  reports from Google Webmaster tools options. Because your all pages of your websites now link up or connected with google Webmaster tools. So, enjoy and don't forget to rated us five star feedback.
  

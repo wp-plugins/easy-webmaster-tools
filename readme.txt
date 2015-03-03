@@ -1,4 +1,4 @@
-=== Easy Webmaster Tools ===
+=== Easy Google Webmaster Tools ===
 Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: ThemeRoad
