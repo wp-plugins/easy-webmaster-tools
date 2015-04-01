@@ -16,6 +16,8 @@ Easily Add Google Webmaster tools for your websites and tracking all pages your 
 
 == Description ==
 
+### Easy Google Webmaster Tools by http://themeroad.net
+
 Easy Google Webmaster tools is one of the best simple plugin to add or connect your websites with Google Web master tools.Its really easy for use everyone.Just install the plugin as like other wordpress plugin.And then you will see the Webmaster options in your dashboard.Then click Web master tools options and then you see a textarea.You will just copy the Goggle Webmaster alternative html meta tag  code and paste here.And Then you will get all kind of sites error and other  reports from Google Web master tools options. Because your all pages of your websites now link up or connected with google Web master tools. So, enjoy and don't forget to rated us five star feedback.
 
 Plugin Features !!!!!
