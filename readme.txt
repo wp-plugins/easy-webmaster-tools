@@ -6,7 +6,7 @@ Donate link:
 Tags: webmaster,tools,easy,google webmaster tools,google, javascript, Webmaster dashboard, dashboard, google, google Webmaster, google Webmaster dashboard, google Webmaster widget, multisite, Realtime,wpmu,statistics, widget, GA code, Google Webmaster in WordPress, remarketing analytics,universal Webmaster, WordPress Google Webmaster,display advertising, GA code, GA code integration, GA Plugin, GA Script, google,Google Analytics in WordPress,statistics, universal Webmaster,WP Google Webmaster, WP Google Webmaster, Plugin,clicky, code, google, google analytic,PhpSword, piwik, Realtime, stats, tracking, Web Statistics, yahoo,GA code, GA code integration, GA Plugin,WordPress Google Webmaster, WP Google Webmaster, WP Google Analytics Plugin, display advertising, GA code, google analytics, Google Analytics in WordPress, universal analytics, WordPress Google Webmaster,analytics, display advertising, GA code, GA code integration, GA Plugin, GA Script, google, google analytics, Google Analytics in WordPress, tracking code, universal analytics, WordPress Google Analytics, WP Google Analytics, WP Google Analytics Plugin, google,monitor, plugin, reports, shortcode, widget, wordpress.
 
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
